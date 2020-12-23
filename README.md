@@ -27,6 +27,7 @@
 - [raywenderlich](https://www.raywenderlich.com/ios/) Learn iOS development in Swift.
 - [medium](https://medium.com/ios-os-x-development) Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers.
+- [quicktype](https://app.quicktype.io/) Parse JSON in swift
 
 ### Apple
 
@@ -40,6 +41,7 @@
 - [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)
     - [Simplified Chinese](https://developer.apple.com/cn/app-store/review/guidelines/)
 - [Auto-renewable Subscriptions](https://developer.apple.com/app-store/subscriptions/)
+- [App Store Connect Help](https://help.apple.com/app-store-connect)
 
 ## IDE
 
@@ -96,7 +98,7 @@ to be accessed and controlled from a single terminal.
 - [plutil](https://www.theiphonewiki.com/wiki/Plutil) plutil is a program that can convert .plist files between a binary version and an XML version. Currently, there are two versions of this utility.
 - [dsymutil](https://llvm.org/docs/CommandGuide/dsymutil.html) dsymutil links the DWARF debug information found in the object files for an executable executable by using debug symbols information contained in its symbol table. 
 - [symboliccrash](https://developer.apple.com/library/archive/technotes/tn2151/_index.html) Symbolicating crash reports
-- [ArgumentParser](https://swift.org/blog/argument-parser/) Open-source library that makes it straightforward to parse command-line arguments in Swift
+- [swift-argument-parser](https://github.com/apple/swift-argument-parser) Open-source library that makes it straightforward to parse command-line arguments in Swift
 
 ## DEBUG
 
@@ -190,6 +192,7 @@ to be accessed and controlled from a single terminal.
 
 ## Compiler
 
+- [https://github.com/bazelbuild/bazel] A fast, scalable, multi-language and extensible build system
 - [ccache](https://ccache.samba.org/) ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [ClangKit](https://github.com/macmade/ClangKit) ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
@@ -223,6 +226,7 @@ to be accessed and controlled from a single terminal.
 
 ## Localization
 
+- [Localazy](https://localazy.com) - Developer-friendly localization tool for iOS and macOS apps supporting .strings, .stringsdict, .plist and XLIFF files.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) Analyze, review, and edit your app translations. Can directly open the Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats.
 
 ## Reverse engineering
@@ -290,7 +294,7 @@ to be accessed and controlled from a single terminal.
 - [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) Make your computer run smoothly by suspending the tabs you aren't using
 
 ## Other
-
+- [Graphviz](https://graphviz.org/) Gaphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.
 - [UTM](https://github.com/utmapp/UTM) Virtual machines for iOS
 - [Alfred](https://www.alfredapp.com/) Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. 
 - [Bear](https://bear.app/) Bear is a beautiful, flexible writing app for crafting notes and prose.
@@ -322,3 +326,4 @@ to be accessed and controlled from a single terminal.
 - [SkrybaMD](https://github.com/robertherdzik/SkrybaMD) - Markdown Documentation generator. If your team need easy way to maintain and create documentation, this generator is for you.
 - [Swiftify](https://swiftify.com/#/converter/code/) - Objective-C to Swift Converter
 - [Storyboard -> SwiftUI Converter](https://swiftify.com/#/converter/storyboard2swiftui/) - Storyboard / Xib to SwiftUI converter
+- [Xcode Projects](https://github.com/DKalachniuk/XcodeProjects) - Open quickly your Xcode projects and very handy for cocoapods. Do pod install and pod update in 2 clicks
