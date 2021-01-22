@@ -192,8 +192,9 @@ to be accessed and controlled from a single terminal.
 
 ## Compiler
 
-- (bazel)[https://github.com/bazelbuild/bazel] A fast, scalable, multi-language and extensible build system
+- [bazel](https://github.com/bazelbuild/bazel) A fast, scalable, multi-language and extensible build system
   - [PodToBUILD](https://github.com/pinterest/PodToBUILD) An easy way to build CocoaPods with Bazel by Pinterest
+- [XCMetrics](https://github.com/spotify/XCMetrics) XCMetrics is the easiest way to collect Xcode builds metrics and improve your developer productivity.
 - [ccache](https://ccache.samba.org/) ccache is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again
 - [swiff](https://github.com/agens-no/swiff) Human readable time diffs on lines of output when running e.g. build commands like fastlane
 - [ClangKit](https://github.com/macmade/ClangKit) ClangKit provides an Objective-C frontend to LibClang. Source tokenization, diagnostics and fix-its are actually implemented.
@@ -265,6 +266,7 @@ to be accessed and controlled from a single terminal.
 - [MachO-Kit](https://github.com/DeVaukz/MachO-Kit) A C/Objective-C library for parsing Mach-O files.
 - [insert_dylib](https://github.com/Tyilo/insert_dylib) Command line utility for inserting a dylib load command into a Mach-O binary
 - [yololib](https://github.com/KJCracks/yololib) dylib injector for mach-o binaries
+- [dyld-shared-cache-big-sur](https://github.com/antons/dyld-shared-cache-big-sur) Modifications to Apple's dyld project to fix Objective-C information when extracting dyld_shared_cache from macOS Big Sur to help Hopper generate readable pseudocode.
 - [dyld_cache_extract](https://github.com/macmade/dyld_cache_extract) A macOS utility to extract dynamic libraries from the dyld_shared_cache of macOS and iOS
 - [app2dylib](https://github.com/tobefuturer/app2dylib) A reverse engineering tool to convert iOS app to dylib
 - [apple configuration2](https://apps.apple.com/cn/app/apple-configurator-2/id1037126344?l=en&mt=12) Download ipa file from App Store
